@@ -1,0 +1,6 @@
+In this document i will write everithing about the thing that i do in alliance.
+
+Design Flow:
+
+1_ First Step: Write a Code in VHDL using quartus and compile it.
+2_ Use VASY to get a .vst or vbe file
