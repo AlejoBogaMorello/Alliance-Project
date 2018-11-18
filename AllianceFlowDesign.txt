@@ -4,3 +4,5 @@ Design Flow:
 
 1_ First Step: Write a Code in VHDL using quartus and compile it.
 2_ Use VASY to get a .vst or vbe file
+
+Today i'm going to change a little this text to check mi knowledge about this topic. 
